@@ -1,0 +1,1001 @@
+Chili Type,Acres,Avg Yield (Tons),Cost (INR),Soil Type,Ph,Nitrogen,Phosphorus,Potassium,WaterRequirement,SpacingBetweenPlants
+Guntur Sannam Green,1,1.4,43415,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,1.25,1.75,54268.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,1.5,2.1,65122.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,1.75,2.45,75976.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,2,2.8,86830,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,2.25,3.15,97683.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,2.5,3.5,108537.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,2.75,3.85,119391.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,3,4.2,130245,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,3.25,4.55,141098.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,3.5,4.9,151952.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,3.75,5.25,162806.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,4,5.6,173660,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,4.25,5.95,184513.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,4.5,6.3,195367.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,4.75,6.65,206221.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,5,7.0,217075,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,5.25,7.35,227928.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,5.5,7.7,238782.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,5.75,8.05,249636.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,6,8.4,260490,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,6.25,8.75,271343.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,6.5,9.1,282197.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,6.75,9.45,293051.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,7,9.8,303905,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,7.25,10.15,314758.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,7.5,10.5,325612.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,7.75,10.85,336466.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,8,11.2,347320,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,8.25,11.55,358173.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,8.5,11.9,369027.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,8.75,12.25,379881.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,9,12.6,390735,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,9.25,12.95,401588.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,9.5,13.3,412442.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,9.75,13.65,423296.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,10,14.0,434150,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,10.25,14.35,445003.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,10.5,14.7,455857.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,10.75,15.05,466711.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,11,15.4,477565,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,11.25,15.75,488418.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,11.5,16.1,499272.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,11.75,16.45,510126.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,12,16.8,520980,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,12.25,17.15,531833.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,12.5,17.5,542687.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,12.75,17.85,553541.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,13,18.2,564395,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,13.25,18.55,575248.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,13.5,18.9,586102.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,13.75,19.25,596956.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,14,19.6,607810,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,14.25,19.95,618663.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,14.5,20.3,629517.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,14.75,20.65,640371.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,15,21.0,651225,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,15.25,21.35,662078.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,15.5,21.7,672932.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,15.75,22.05,683786.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,16,22.4,694640,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,16.25,22.75,705493.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,16.5,23.1,716347.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,16.75,23.45,727201.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,17,23.8,738055,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,17.25,24.15,748908.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,17.5,24.5,759762.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,17.75,24.85,770616.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,18,25.2,781470,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,18.25,25.55,792323.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,18.5,25.9,803177.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,18.75,26.25,814031.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,19,26.6,824885,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,19.25,26.95,835738.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,19.5,27.3,846592.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,19.75,27.65,857446.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,20,28.0,868300,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,20.25,28.35,879153.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,20.5,28.7,890007.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,20.75,29.05,900861.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,21,29.4,911715,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,21.25,29.75,922568.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,21.5,30.1,933422.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,21.75,30.45,944276.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,22,30.8,955130,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,22.25,31.15,965983.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,22.5,31.5,976837.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,22.75,31.85,987691.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,23,32.2,998545,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,23.25,32.55,1009398.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,23.5,32.9,1020252.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,23.75,33.25,1031106.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,24,33.6,1041960,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,24.25,33.95,1052813.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,24.5,34.3,1063667.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,24.75,34.65,1074521.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,25,35.0,1085375,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,25.25,35.35,1096228.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,25.5,35.7,1107082.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,25.75,36.05,1117936.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,26,36.4,1128790,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,26.25,36.75,1139643.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,26.5,37.1,1150497.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,26.75,37.45,1161351.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,27,37.8,1172205,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,27.25,38.15,1183058.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,27.5,38.5,1193912.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,27.75,38.85,1204766.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,28,39.2,1215620,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,28.25,39.55,1226473.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,28.5,39.9,1237327.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,28.75,40.25,1248181.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,29,40.6,1259035,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,29.25,40.95,1269888.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,29.5,41.3,1280742.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,29.75,41.65,1291596.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,30,42.0,1302450,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,30.25,42.35,1313303.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,30.5,42.7,1324157.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,30.75,43.05,1335011.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,31,43.4,1345865,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,31.25,43.75,1356718.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,31.5,44.1,1367572.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,31.75,44.45,1378426.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,32,44.8,1389280,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,32.25,45.15,1400133.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,32.5,45.5,1410987.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,32.75,45.85,1421841.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,33,46.2,1432695,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,33.25,46.55,1443548.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,33.5,46.9,1454402.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,33.75,47.25,1465256.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,34,47.6,1476110,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,34.25,47.95,1486963.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,34.5,48.3,1497817.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,34.75,48.65,1508671.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,35,49.0,1519525,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,35.25,49.35,1530378.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,35.5,49.7,1541232.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,35.75,50.05,1552086.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,36,50.4,1562940,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,36.25,50.75,1573793.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,36.5,51.1,1584647.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,36.75,51.45,1595501.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,37,51.8,1606355,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,37.25,52.15,1617208.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,37.5,52.5,1628062.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,37.75,52.85,1638916.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,38,53.2,1649770,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,38.25,53.55,1660623.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,38.5,53.9,1671477.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,38.75,54.25,1682331.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,39,54.6,1693185,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,39.25,54.95,1704038.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,39.5,55.3,1714892.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,39.75,55.65,1725746.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,40,56.0,1736600,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,40.25,56.35,1747453.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,40.5,56.7,1758307.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,40.75,57.05,1769161.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,41,57.4,1780015,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,41.25,57.75,1790868.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,41.5,58.1,1801722.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,41.75,58.45,1812576.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,42,58.8,1823430,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,42.25,59.15,1834283.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,42.5,59.5,1845137.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,42.75,59.85,1855991.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,43,60.2,1866845,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,43.25,60.55,1877698.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,43.5,60.9,1888552.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,43.75,61.25,1899406.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,44,61.6,1910260,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,44.25,61.95,1921113.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,44.5,62.3,1931967.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,44.75,62.65,1942821.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,45,63.0,1953675,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,45.25,63.35,1964528.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,45.5,63.7,1975382.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,45.75,64.05,1986236.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,46,64.4,1997090,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,46.25,64.75,2007943.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,46.5,65.1,2018797.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,46.75,65.45,2029651.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,47,65.8,2040505,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,47.25,66.15,2051358.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,47.5,66.5,2062212.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,47.75,66.85,2073066.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,48,67.2,2083920,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,48.25,67.55,2094773.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,48.5,67.9,2105627.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,48.75,68.25,2116481.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,49,68.6,2127335,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,49.25,68.95,2138188.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,49.5,69.3,2149042.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,49.75,69.65,2159896.25,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,50,70.0,2170750,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,50.25,70.35,2181603.75,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,50.5,70.7,2192457.5,Loam,6.0,50,30,40,5000,60
+Guntur Sannam Green,50.75,71.05,2203311.25,Loam,6.0,50,30,40,5000,60
+Guntur Teja Green,1,1.2,44894,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,1.25,1.5,56117.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,1.5,1.8,67341.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,1.75,2.1,78564.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,2,2.4,89788,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,2.25,2.7,101011.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,2.5,3.0,112235.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,2.75,3.3,123458.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,3,3.6,134682,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,3.25,3.9,145905.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,3.5,4.2,157129.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,3.75,4.5,168352.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,4,4.8,179576,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,4.25,5.1,190799.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,4.5,5.4,202023.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,4.75,5.7,213246.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,5,6.0,224470,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,5.25,6.3,235693.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,5.5,6.6,246917.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,5.75,6.9,258140.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,6,7.2,269364,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,6.25,7.5,280587.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,6.5,7.8,291811.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,6.75,8.1,303034.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,7,8.4,314258,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,7.25,8.7,325481.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,7.5,9.0,336705.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,7.75,9.3,347928.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,8,9.6,359152,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,8.25,9.9,370375.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,8.5,10.2,381599.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,8.75,10.5,392822.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,9,10.8,404046,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,9.25,11.1,415269.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,9.5,11.4,426493.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,9.75,11.7,437716.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,10,12.0,448940,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,10.25,12.3,460163.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,10.5,12.6,471387.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,10.75,12.9,482610.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,11,13.2,493834,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,11.25,13.5,505057.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,11.5,13.8,516281.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,11.75,14.1,527504.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,12,14.4,538728,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,12.25,14.7,549951.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,12.5,15.0,561175.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,12.75,15.3,572398.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,13,15.6,583622,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,13.25,15.9,594845.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,13.5,16.2,606069.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,13.75,16.5,617292.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,14,16.8,628516,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,14.25,17.1,639739.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,14.5,17.4,650963.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,14.75,17.7,662186.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,15,18.0,673410,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,15.25,18.3,684633.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,15.5,18.6,695857.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,15.75,18.9,707080.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,16,19.2,718304,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,16.25,19.5,729527.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,16.5,19.8,740751.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,16.75,20.1,751974.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,17,20.4,763198,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,17.25,20.7,774421.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,17.5,21.0,785645.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,17.75,21.3,796868.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,18,21.6,808092,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,18.25,21.9,819315.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,18.5,22.2,830539.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,18.75,22.5,841762.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,19,22.8,852986,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,19.25,23.1,864209.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,19.5,23.4,875433.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,19.75,23.7,886656.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,20,24.0,897880,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,20.25,24.3,909103.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,20.5,24.6,920327.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,20.75,24.9,931550.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,21,25.2,942774,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,21.25,25.5,953997.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,21.5,25.8,965221.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,21.75,26.1,976444.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,22,26.4,987668,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,22.25,26.7,998891.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,22.5,27.0,1010115.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,22.75,27.3,1021338.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,23,27.6,1032562,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,23.25,27.9,1043785.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,23.5,28.2,1055009.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,23.75,28.5,1066232.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,24,28.8,1077456,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,24.25,29.1,1088679.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,24.5,29.4,1099903.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,24.75,29.7,1111126.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,25,30.0,1122350,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,25.25,30.3,1133573.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,25.5,30.6,1144797.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,25.75,30.9,1156020.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,26,31.2,1167244,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,26.25,31.5,1178467.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,26.5,31.8,1189691.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,26.75,32.1,1200914.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,27,32.4,1212138,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,27.25,32.7,1223361.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,27.5,33.0,1234585.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,27.75,33.3,1245808.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,28,33.6,1257032,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,28.25,33.9,1268255.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,28.5,34.2,1279479.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,28.75,34.5,1290702.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,29,34.8,1301926,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,29.25,35.1,1313149.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,29.5,35.4,1324373.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,29.75,35.7,1335596.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,30,36.0,1346820,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,30.25,36.3,1358043.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,30.5,36.6,1369267.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,30.75,36.9,1380490.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,31,37.2,1391714,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,31.25,37.5,1402937.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,31.5,37.8,1414161.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,31.75,38.1,1425384.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,32,38.4,1436608,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,32.25,38.7,1447831.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,32.5,39.0,1459055.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,32.75,39.3,1470278.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,33,39.6,1481502,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,33.25,39.9,1492725.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,33.5,40.2,1503949.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,33.75,40.5,1515172.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,34,40.8,1526396,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,34.25,41.1,1537619.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,34.5,41.4,1548843.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,34.75,41.7,1560066.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,35,42.0,1571290,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,35.25,42.3,1582513.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,35.5,42.6,1593737.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,35.75,42.9,1604960.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,36,43.2,1616184,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,36.25,43.5,1627407.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,36.5,43.8,1638631.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,36.75,44.1,1649854.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,37,44.4,1661078,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,37.25,44.7,1672301.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,37.5,45.0,1683525.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,37.75,45.3,1694748.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,38,45.6,1705972,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,38.25,45.9,1717195.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,38.5,46.2,1728419.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,38.75,46.5,1739642.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,39,46.8,1750866,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,39.25,47.1,1762089.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,39.5,47.4,1773313.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,39.75,47.7,1784536.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,40,48.0,1795760,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,40.25,48.3,1806983.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,40.5,48.6,1818207.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,40.75,48.9,1829430.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,41,49.2,1840654,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,41.25,49.5,1851877.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,41.5,49.8,1863101.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,41.75,50.1,1874324.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,42,50.4,1885548,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,42.25,50.7,1896771.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,42.5,51.0,1907995.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,42.75,51.3,1919218.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,43,51.6,1930442,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,43.25,51.9,1941665.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,43.5,52.2,1952889.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,43.75,52.5,1964112.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,44,52.8,1975336,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,44.25,53.1,1986559.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,44.5,53.4,1997783.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,44.75,53.7,2009006.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,45,54.0,2020230,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,45.25,54.3,2031453.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,45.5,54.6,2042677.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,45.75,54.9,2053900.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,46,55.2,2065124,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,46.25,55.5,2076347.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,46.5,55.8,2087571.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,46.75,56.1,2098794.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,47,56.4,2110018,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,47.25,56.7,2121241.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,47.5,57.0,2132465.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,47.75,57.3,2143688.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,48,57.6,2154912,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,48.25,57.9,2166135.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,48.5,58.2,2177359.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,48.75,58.5,2188582.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,49,58.8,2199806,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,49.25,59.1,2211029.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,49.5,59.4,2222253.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,49.75,59.7,2233476.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,50,60.0,2244700,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,50.25,60.3,2255923.5,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,50.5,60.6,2267147.0,Clay,6.2,55,32,42,5200,60
+Guntur Teja Green,50.75,60.9,2278370.5,Clay,6.2,55,32,42,5200,60
+334 Green Chili,1,1.1,48156,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,1.25,1.38,60195.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,1.5,1.65,72234.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,1.75,1.93,84273.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,2,2.2,96312,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,2.25,2.48,108351.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,2.5,2.75,120390.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,2.75,3.03,132429.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,3,3.3,144468,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,3.25,3.58,156507.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,3.5,3.85,168546.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,3.75,4.12,180585.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,4,4.4,192624,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,4.25,4.68,204663.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,4.5,4.95,216702.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,4.75,5.23,228741.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,5,5.5,240780,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,5.25,5.78,252819.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,5.5,6.05,264858.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,5.75,6.33,276897.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,6,6.6,288936,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,6.25,6.88,300975.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,6.5,7.15,313014.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,6.75,7.43,325053.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,7,7.7,337092,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,7.25,7.98,349131.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,7.5,8.25,361170.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,7.75,8.53,373209.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,8,8.8,385248,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,8.25,9.08,397287.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,8.5,9.35,409326.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,8.75,9.62,421365.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,9,9.9,433404,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,9.25,10.18,445443.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,9.5,10.45,457482.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,9.75,10.73,469521.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,10,11.0,481560,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,10.25,11.28,493599.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,10.5,11.55,505638.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,10.75,11.83,517677.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,11,12.1,529716,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,11.25,12.38,541755.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,11.5,12.65,553794.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,11.75,12.93,565833.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,12,13.2,577872,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,12.25,13.48,589911.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,12.5,13.75,601950.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,12.75,14.03,613989.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,13,14.3,626028,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,13.25,14.58,638067.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,13.5,14.85,650106.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,13.75,15.13,662145.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,14,15.4,674184,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,14.25,15.68,686223.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,14.5,15.95,698262.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,14.75,16.23,710301.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,15,16.5,722340,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,15.25,16.78,734379.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,15.5,17.05,746418.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,15.75,17.33,758457.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,16,17.6,770496,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,16.25,17.88,782535.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,16.5,18.15,794574.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,16.75,18.43,806613.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,17,18.7,818652,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,17.25,18.98,830691.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,17.5,19.25,842730.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,17.75,19.53,854769.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,18,19.8,866808,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,18.25,20.08,878847.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,18.5,20.35,890886.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,18.75,20.62,902925.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,19,20.9,914964,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,19.25,21.18,927003.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,19.5,21.45,939042.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,19.75,21.73,951081.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,20,22.0,963120,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,20.25,22.28,975159.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,20.5,22.55,987198.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,20.75,22.83,999237.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,21,23.1,1011276,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,21.25,23.38,1023315.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,21.5,23.65,1035354.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,21.75,23.93,1047393.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,22,24.2,1059432,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,22.25,24.48,1071471.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,22.5,24.75,1083510.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,22.75,25.03,1095549.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,23,25.3,1107588,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,23.25,25.58,1119627.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,23.5,25.85,1131666.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,23.75,26.13,1143705.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,24,26.4,1155744,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,24.25,26.68,1167783.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,24.5,26.95,1179822.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,24.75,27.23,1191861.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,25,27.5,1203900,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,25.25,27.78,1215939.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,25.5,28.05,1227978.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,25.75,28.33,1240017.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,26,28.6,1252056,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,26.25,28.88,1264095.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,26.5,29.15,1276134.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,26.75,29.43,1288173.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,27,29.7,1300212,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,27.25,29.98,1312251.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,27.5,30.25,1324290.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,27.75,30.53,1336329.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,28,30.8,1348368,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,28.25,31.08,1360407.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,28.5,31.35,1372446.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,28.75,31.63,1384485.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,29,31.9,1396524,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,29.25,32.18,1408563.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,29.5,32.45,1420602.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,29.75,32.73,1432641.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,30,33.0,1444680,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,30.25,33.28,1456719.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,30.5,33.55,1468758.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,30.75,33.83,1480797.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,31,34.1,1492836,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,31.25,34.38,1504875.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,31.5,34.65,1516914.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,31.75,34.93,1528953.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,32,35.2,1540992,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,32.25,35.48,1553031.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,32.5,35.75,1565070.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,32.75,36.03,1577109.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,33,36.3,1589148,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,33.25,36.58,1601187.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,33.5,36.85,1613226.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,33.75,37.12,1625265.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,34,37.4,1637304,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,34.25,37.68,1649343.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,34.5,37.95,1661382.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,34.75,38.23,1673421.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,35,38.5,1685460,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,35.25,38.78,1697499.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,35.5,39.05,1709538.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,35.75,39.33,1721577.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,36,39.6,1733616,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,36.25,39.88,1745655.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,36.5,40.15,1757694.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,36.75,40.43,1769733.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,37,40.7,1781772,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,37.25,40.98,1793811.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,37.5,41.25,1805850.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,37.75,41.53,1817889.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,38,41.8,1829928,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,38.25,42.08,1841967.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,38.5,42.35,1854006.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,38.75,42.62,1866045.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,39,42.9,1878084,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,39.25,43.18,1890123.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,39.5,43.45,1902162.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,39.75,43.73,1914201.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,40,44.0,1926240,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,40.25,44.28,1938279.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,40.5,44.55,1950318.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,40.75,44.83,1962357.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,41,45.1,1974396,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,41.25,45.38,1986435.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,41.5,45.65,1998474.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,41.75,45.93,2010513.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,42,46.2,2022552,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,42.25,46.48,2034591.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,42.5,46.75,2046630.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,42.75,47.03,2058669.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,43,47.3,2070708,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,43.25,47.58,2082747.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,43.5,47.85,2094786.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,43.75,48.13,2106825.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,44,48.4,2118864,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,44.25,48.68,2130903.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,44.5,48.95,2142942.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,44.75,49.23,2154981.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,45,49.5,2167020,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,45.25,49.78,2179059.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,45.5,50.05,2191098.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,45.75,50.33,2203137.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,46,50.6,2215176,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,46.25,50.88,2227215.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,46.5,51.15,2239254.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,46.75,51.43,2251293.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,47,51.7,2263332,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,47.25,51.98,2275371.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,47.5,52.25,2287410.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,47.75,52.53,2299449.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,48,52.8,2311488,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,48.25,53.08,2323527.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,48.5,53.35,2335566.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,48.75,53.63,2347605.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,49,53.9,2359644,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,49.25,54.18,2371683.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,49.5,54.45,2383722.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,49.75,54.73,2395761.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,50,55.0,2407800,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,50.25,55.28,2419839.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,50.5,55.55,2431878.0,Sandy Loam,6.5,52,31,41,5100,60
+334 Green Chili,50.75,55.83,2443917.0,Sandy Loam,6.5,52,31,41,5100,60
+Byadgi Green Chili,1,1.3,55606,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,1.25,1.62,69507.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,1.5,1.95,83409.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,1.75,2.27,97310.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,2,2.6,111212,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,2.25,2.93,125113.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,2.5,3.25,139015.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,2.75,3.58,152916.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,3,3.9,166818,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,3.25,4.23,180719.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,3.5,4.55,194621.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,3.75,4.88,208522.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,4,5.2,222424,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,4.25,5.53,236325.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,4.5,5.85,250227.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,4.75,6.17,264128.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,5,6.5,278030,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,5.25,6.83,291931.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,5.5,7.15,305833.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,5.75,7.48,319734.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,6,7.8,333636,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,6.25,8.12,347537.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,6.5,8.45,361439.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,6.75,8.78,375340.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,7,9.1,389242,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,7.25,9.43,403143.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,7.5,9.75,417045.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,7.75,10.08,430946.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,8,10.4,444848,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,8.25,10.72,458749.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,8.5,11.05,472651.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,8.75,11.38,486552.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,9,11.7,500454,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,9.25,12.03,514355.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,9.5,12.35,528257.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,9.75,12.68,542158.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,10,13.0,556060,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,10.25,13.33,569961.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,10.5,13.65,583863.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,10.75,13.97,597764.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,11,14.3,611666,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,11.25,14.62,625567.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,11.5,14.95,639469.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,11.75,15.28,653370.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,12,15.6,667272,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,12.25,15.93,681173.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,12.5,16.25,695075.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,12.75,16.57,708976.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,13,16.9,722878,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,13.25,17.23,736779.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,13.5,17.55,750681.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,13.75,17.88,764582.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,14,18.2,778484,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,14.25,18.53,792385.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,14.5,18.85,806287.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,14.75,19.18,820188.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,15,19.5,834090,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,15.25,19.82,847991.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,15.5,20.15,861893.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,15.75,20.48,875794.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,16,20.8,889696,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,16.25,21.12,903597.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,16.5,21.45,917499.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,16.75,21.78,931400.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,17,22.1,945302,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,17.25,22.43,959203.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,17.5,22.75,973105.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,17.75,23.07,987006.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,18,23.4,1000908,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,18.25,23.73,1014809.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,18.5,24.05,1028711.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,18.75,24.38,1042612.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,19,24.7,1056514,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,19.25,25.03,1070415.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,19.5,25.35,1084317.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,19.75,25.68,1098218.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,20,26.0,1112120,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,20.25,26.32,1126021.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,20.5,26.65,1139923.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,20.75,26.98,1153824.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,21,27.3,1167726,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,21.25,27.62,1181627.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,21.5,27.95,1195529.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,21.75,28.28,1209430.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,22,28.6,1223332,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,22.25,28.93,1237233.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,22.5,29.25,1251135.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,22.75,29.57,1265036.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,23,29.9,1278938,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,23.25,30.23,1292839.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,23.5,30.55,1306741.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,23.75,30.88,1320642.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,24,31.2,1334544,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,24.25,31.53,1348445.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,24.5,31.85,1362347.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,24.75,32.18,1376248.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,25,32.5,1390150,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,25.25,32.83,1404051.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,25.5,33.15,1417953.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,25.75,33.48,1431854.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,26,33.8,1445756,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,26.25,34.12,1459657.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,26.5,34.45,1473559.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,26.75,34.77,1487460.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,27,35.1,1501362,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,27.25,35.43,1515263.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,27.5,35.75,1529165.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,27.75,36.08,1543066.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,28,36.4,1556968,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,28.25,36.73,1570869.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,28.5,37.05,1584771.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,28.75,37.38,1598672.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,29,37.7,1612574,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,29.25,38.02,1626475.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,29.5,38.35,1640377.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,29.75,38.68,1654278.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,30,39.0,1668180,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,30.25,39.33,1682081.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,30.5,39.65,1695983.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,30.75,39.98,1709884.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,31,40.3,1723786,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,31.25,40.62,1737687.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,31.5,40.95,1751589.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,31.75,41.27,1765490.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,32,41.6,1779392,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,32.25,41.93,1793293.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,32.5,42.25,1807195.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,32.75,42.58,1821096.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,33,42.9,1834998,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,33.25,43.23,1848899.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,33.5,43.55,1862801.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,33.75,43.88,1876702.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,34,44.2,1890604,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,34.25,44.52,1904505.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,34.5,44.85,1918407.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,34.75,45.18,1932308.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,35,45.5,1946210,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,35.25,45.83,1960111.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,35.5,46.15,1974013.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,35.75,46.48,1987914.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,36,46.8,2001816,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,36.25,47.12,2015717.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,36.5,47.45,2029619.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,36.75,47.77,2043520.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,37,48.1,2057422,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,37.25,48.43,2071323.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,37.5,48.75,2085225.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,37.75,49.08,2099126.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,38,49.4,2113028,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,38.25,49.73,2126929.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,38.5,50.05,2140831.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,38.75,50.38,2154732.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,39,50.7,2168634,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,39.25,51.02,2182535.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,39.5,51.35,2196437.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,39.75,51.68,2210338.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,40,52.0,2224240,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,40.25,52.33,2238141.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,40.5,52.65,2252043.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,40.75,52.98,2265944.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,41,53.3,2279846,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,41.25,53.62,2293747.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,41.5,53.95,2307649.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,41.75,54.27,2321550.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,42,54.6,2335452,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,42.25,54.93,2349353.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,42.5,55.25,2363255.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,42.75,55.58,2377156.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,43,55.9,2391058,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,43.25,56.23,2404959.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,43.5,56.55,2418861.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,43.75,56.88,2432762.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,44,57.2,2446664,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,44.25,57.52,2460565.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,44.5,57.85,2474467.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,44.75,58.18,2488368.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,45,58.5,2502270,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,45.25,58.83,2516171.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,45.5,59.15,2530073.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,45.75,59.48,2543974.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,46,59.8,2557876,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,46.25,60.12,2571777.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,46.5,60.45,2585679.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,46.75,60.77,2599580.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,47,61.1,2613482,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,47.25,61.43,2627383.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,47.5,61.75,2641285.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,47.75,62.08,2655186.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,48,62.4,2669088,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,48.25,62.73,2682989.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,48.5,63.05,2696891.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,48.75,63.38,2710792.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,49,63.7,2724694,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,49.25,64.03,2738595.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,49.5,64.35,2752497.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,49.75,64.67,2766398.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,50,65.0,2780300,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,50.25,65.33,2794201.5,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,50.5,65.65,2808103.0,Red Loam,6.3,53,33,43,5300,60
+Byadgi Green Chili,50.75,65.98,2822004.5,Red Loam,6.3,53,33,43,5300,60
+Ramnad Green Mundu,1,1.15,42643,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,1.25,1.44,53303.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,1.5,1.72,63964.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,1.75,2.01,74625.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,2,2.3,85286,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,2.25,2.59,95946.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,2.5,2.88,106607.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,2.75,3.16,117268.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,3,3.45,127929,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,3.25,3.74,138589.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,3.5,4.02,149250.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,3.75,4.31,159911.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,4,4.6,170572,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,4.25,4.89,181232.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,4.5,5.17,191893.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,4.75,5.46,202554.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,5,5.75,213215,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,5.25,6.04,223875.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,5.5,6.32,234536.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,5.75,6.61,245197.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,6,6.9,255858,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,6.25,7.19,266518.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,6.5,7.47,277179.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,6.75,7.76,287840.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,7,8.05,298501,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,7.25,8.34,309161.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,7.5,8.62,319822.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,7.75,8.91,330483.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,8,9.2,341144,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,8.25,9.49,351804.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,8.5,9.77,362465.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,8.75,10.06,373126.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,9,10.35,383787,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,9.25,10.64,394447.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,9.5,10.92,405108.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,9.75,11.21,415769.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,10,11.5,426430,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,10.25,11.79,437090.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,10.5,12.07,447751.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,10.75,12.36,458412.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,11,12.65,469073,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,11.25,12.94,479733.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,11.5,13.22,490394.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,11.75,13.51,501055.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,12,13.8,511716,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,12.25,14.09,522376.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,12.5,14.37,533037.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,12.75,14.66,543698.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,13,14.95,554359,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,13.25,15.24,565019.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,13.5,15.52,575680.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,13.75,15.81,586341.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,14,16.1,597002,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,14.25,16.39,607662.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,14.5,16.67,618323.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,14.75,16.96,628984.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,15,17.25,639645,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,15.25,17.54,650305.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,15.5,17.82,660966.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,15.75,18.11,671627.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,16,18.4,682288,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,16.25,18.69,692948.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,16.5,18.97,703609.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,16.75,19.26,714270.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,17,19.55,724931,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,17.25,19.84,735591.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,17.5,20.12,746252.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,17.75,20.41,756913.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,18,20.7,767574,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,18.25,20.99,778234.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,18.5,21.27,788895.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,18.75,21.56,799556.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,19,21.85,810217,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,19.25,22.14,820877.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,19.5,22.42,831538.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,19.75,22.71,842199.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,20,23.0,852860,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,20.25,23.29,863520.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,20.5,23.57,874181.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,20.75,23.86,884842.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,21,24.15,895503,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,21.25,24.44,906163.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,21.5,24.72,916824.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,21.75,25.01,927485.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,22,25.3,938146,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,22.25,25.59,948806.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,22.5,25.87,959467.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,22.75,26.16,970128.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,23,26.45,980789,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,23.25,26.74,991449.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,23.5,27.02,1002110.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,23.75,27.31,1012771.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,24,27.6,1023432,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,24.25,27.89,1034092.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,24.5,28.17,1044753.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,24.75,28.46,1055414.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,25,28.75,1066075,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,25.25,29.04,1076735.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,25.5,29.32,1087396.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,25.75,29.61,1098057.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,26,29.9,1108718,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,26.25,30.19,1119378.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,26.5,30.47,1130039.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,26.75,30.76,1140700.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,27,31.05,1151361,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,27.25,31.34,1162021.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,27.5,31.62,1172682.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,27.75,31.91,1183343.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,28,32.2,1194004,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,28.25,32.49,1204664.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,28.5,32.77,1215325.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,28.75,33.06,1225986.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,29,33.35,1236647,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,29.25,33.64,1247307.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,29.5,33.92,1257968.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,29.75,34.21,1268629.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,30,34.5,1279290,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,30.25,34.79,1289950.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,30.5,35.07,1300611.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,30.75,35.36,1311272.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,31,35.65,1321933,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,31.25,35.94,1332593.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,31.5,36.22,1343254.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,31.75,36.51,1353915.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,32,36.8,1364576,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,32.25,37.09,1375236.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,32.5,37.38,1385897.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,32.75,37.66,1396558.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,33,37.95,1407219,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,33.25,38.24,1417879.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,33.5,38.52,1428540.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,33.75,38.81,1439201.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,34,39.1,1449862,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,34.25,39.39,1460522.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,34.5,39.67,1471183.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,34.75,39.96,1481844.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,35,40.25,1492505,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,35.25,40.54,1503165.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,35.5,40.82,1513826.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,35.75,41.11,1524487.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,36,41.4,1535148,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,36.25,41.69,1545808.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,36.5,41.97,1556469.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,36.75,42.26,1567130.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,37,42.55,1577791,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,37.25,42.84,1588451.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,37.5,43.12,1599112.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,37.75,43.41,1609773.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,38,43.7,1620434,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,38.25,43.99,1631094.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,38.5,44.27,1641755.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,38.75,44.56,1652416.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,39,44.85,1663077,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,39.25,45.14,1673737.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,39.5,45.42,1684398.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,39.75,45.71,1695059.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,40,46.0,1705720,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,40.25,46.29,1716380.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,40.5,46.57,1727041.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,40.75,46.86,1737702.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,41,47.15,1748363,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,41.25,47.44,1759023.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,41.5,47.72,1769684.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,41.75,48.01,1780345.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,42,48.3,1791006,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,42.25,48.59,1801666.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,42.5,48.87,1812327.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,42.75,49.16,1822988.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,43,49.45,1833649,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,43.25,49.74,1844309.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,43.5,50.02,1854970.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,43.75,50.31,1865631.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,44,50.6,1876292,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,44.25,50.89,1886952.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,44.5,51.17,1897613.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,44.75,51.46,1908274.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,45,51.75,1918935,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,45.25,52.04,1929595.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,45.5,52.32,1940256.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,45.75,52.61,1950917.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,46,52.9,1961578,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,46.25,53.19,1972238.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,46.5,53.47,1982899.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,46.75,53.76,1993560.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,47,54.05,2004221,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,47.25,54.34,2014881.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,47.5,54.62,2025542.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,47.75,54.91,2036203.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,48,55.2,2046864,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,48.25,55.49,2057524.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,48.5,55.77,2068185.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,48.75,56.06,2078846.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,49,56.35,2089507,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,49.25,56.64,2100167.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,49.5,56.92,2110828.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,49.75,57.21,2121489.25,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,50,57.5,2132150,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,50.25,57.79,2142810.75,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,50.5,58.07,2153471.5,Black Soil,6.1,51,30,40,5000,60
+Ramnad Green Mundu,50.75,58.36,2164132.25,Black Soil,6.1,51,30,40,5000,60
